@@ -73,4 +73,4 @@
 <p dir="rtl">
 9. قم بتسليم التمرين بMentorly
 </p>
- kj vfhkbnkvf
+ 
